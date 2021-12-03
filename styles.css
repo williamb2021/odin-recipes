@@ -1,0 +1,20 @@
+div {
+    color: white;
+    background-color: black;
+  }
+  
+  p {
+    color: red;
+  }
+
+  ol {
+      color: green;;
+  }
+
+  img {
+      height: auto;
+      width: 250px;
+      border: 5px;
+      border-style: solid;
+      border-color: green;
+  }
