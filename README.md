@@ -1,2 +1,2 @@
-# odin-recipes
-This project will give me an overview of HTML basics.
+# RECIPE-LIST
+A quick brutalist website showing a couple made up recipes and basic HTML.
