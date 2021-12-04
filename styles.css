@@ -1,20 +1,40 @@
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+}
+
 div {
-    color: white;
-    background-color: black;
-  }
+  color: white;
+  background-color: black;
+}
   
-  p {
-    color: red;
-  }
+p {
+  color: red;
+}
 
-  ol {
-      color: green;;
-  }
+ol {
+  color: green;;
+}
 
-  img {
-      height: auto;
-      width: 250px;
-      border: 5px;
-      border-style: solid;
-      border-color: green;
-  }
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+  height: auto;
+  width: 250px;
+  border: 5px;
+  border-style: solid;
+  border-color: black;
+}
+
+.warning {
+  color: red;
+  font-size: xx-large;
+  background-color: yellow;
+}
